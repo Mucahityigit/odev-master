@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/odev-master/static/css/main.d7860b92.css",
+    "main.js": "/odev-master/static/js/main.e15c5b74.js",
+    "static/js/787.2fcfd914.chunk.js": "/odev-master/static/js/787.2fcfd914.chunk.js",
+    "index.html": "/odev-master/index.html",
+    "main.d7860b92.css.map": "/odev-master/static/css/main.d7860b92.css.map",
+    "main.e15c5b74.js.map": "/odev-master/static/js/main.e15c5b74.js.map",
+    "787.2fcfd914.chunk.js.map": "/odev-master/static/js/787.2fcfd914.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7860b92.css",
+    "static/js/main.e15c5b74.js"
+  ]
+}
